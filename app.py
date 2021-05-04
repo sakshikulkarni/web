@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, All in Azure class!"
+    return "Hello, All in Azure class and session is being recorded!"
